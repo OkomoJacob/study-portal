@@ -1,4 +1,4 @@
-import { HomeServiceService } from './../home-service.service';
+import { HomeServiceService } from '../services/home-service.service';
 import { Component, OnInit } from '@angular/core';
 import { Name } from '../home'
 
